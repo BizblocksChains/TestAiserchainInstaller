@@ -1,0 +1,2 @@
+dockerImage=aiserchain:1.0
+DOCKER_NETWORK_IP=10.50.0.
