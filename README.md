@@ -5,7 +5,7 @@
 
 > sudo usermod -aG docker $USER 
 
-=> reconnect terminal
+** reconnect terminal
 
 # git clone installer
 > git clone https://github.com/BizblocksChains/TestAiserchainInstaller.git 
@@ -31,5 +31,5 @@ When asked, enter 1.1.1.1 for Existing Node IP and 24004 for Node Manager port
 # nodemanager address
 > http://yourip:23004
 
-### aiserchain blockchain address
-> rpc : testnet.bizblocks.io:22000, token address : 0x345ca3e014aaf5dca488057592ee47305d9b3e10
+# aiserchain blockchain address
+> **rpc : testnet.bizblocks.io:22000, token address : 0x345ca3e014aaf5dca488057592ee47305d9b3e10
