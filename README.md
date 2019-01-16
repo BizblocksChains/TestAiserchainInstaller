@@ -1,2 +1,3 @@
-##Aiserchain Testnode Installer
+## Aiserchain Testnode Installer
 
+> git clone  
