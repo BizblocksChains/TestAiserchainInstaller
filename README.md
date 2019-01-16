@@ -2,7 +2,8 @@
 
 # docker install
 > curl -fsSL https://get.docker.com/ | sudo sh
-> sudo usermod -aG docker $USER # 현재 접속중인 사용자에게 권한주기
+
+> sudo usermod -aG docker $USER 
 
 => reconnect terminal
 
